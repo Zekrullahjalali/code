@@ -1,4 +1,4 @@
 # Laravel test project
 
 
-## You can access this prioject of Zekrullah Jalali github page.
+## You can access this prioject from Zekrullah Jalali github page.
